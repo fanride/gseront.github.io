@@ -1,11 +1,11 @@
 {
-    "name": "test_locale",
-    "short_name": "test_locale",
+    "name": "fanride_prototype",
+    "short_name": "fanride_prototype",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "Fanride App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
